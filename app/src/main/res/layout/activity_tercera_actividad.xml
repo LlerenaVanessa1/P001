@@ -88,4 +88,10 @@
         android:layout_height="wrap_content"
         android:onClick="Cerrar"
         android:text="@string/button_cerrarT" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView" />
 </LinearLayout>
