@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
     private EditText eT_factorial;
     private EditText eT_potencia;
     private EditText eTNumerop;
-    private int pasarCodigo=1;
+    private int retornarCodigo=1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
