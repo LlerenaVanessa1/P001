@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">P001</string>
+
+    <string name="textView_Nombre">Nombre:</string>
+    <string name="textView_MNombre"></string>
+    <string name="editText_Nombre"> </string>
+    <string name="editText_INombre">Ingrese su nombre</string>
+    <string name="textView_Apellido">Apellido:</string>
+    <string name="editText_Apellido"></string>
+    <string name="editText_IApellido">Ingrese un apellido</string>
+
+
+    <string name="textView_Base">Base:</string>
+    <string name="editText_Base"> </string>
+    <string name="editText_IBase">Ingrese base </string>
+    <string name="editText_MBase"></string>
+
+    <string name="textView_Exponente">Exponente:</string>
+    <string name="editText_Exponente"> </string>
+    <string name="editText_IExponente">Ingrese un exponente </string>
+    <string name="textView_Factorial">Factorial:</string>
+    <string name="editText_Factorial"> </string>
+
+    <string name="textView_Potencia">Potencia:</string>
+    <string name="editText_Potencia"> </string>
+
+    <string name="textView_Numero">Número:</string>
+    <string name="editText_INumero">Ingrese el número </string>
+
+    <string name="button_siguiente">Siguiente</string>
+    <string name="button_mostrarActividad">Mostrar Actividad</string>
+
+    <string name="button_siguienteD">Siguiente</string>
+    <string name="button_cerrarD">Cerrar</string>
+
+    <string name="button_cerrarT">Cerrar</string>
+</resources>
