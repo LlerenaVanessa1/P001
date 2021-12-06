@@ -90,12 +90,6 @@
         android:text="@string/button_cerrarT" />
 
     <TextView
-        android:id="@+id/textView8"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/textView_Apellido" />
-
-    <TextView
         android:id="@+id/textView9"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
